@@ -14,4 +14,4 @@ Customers table will have basic fields such as name, email,
 current balance etc. Transfers table will record all transfers
 happened.
 
-# github link: 
+# github link: https://github.com/yashwanthraghupati/BasicBankingSystem
