@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #989899b2;
+    background: url('bank-logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-weight: bold;
+    color: #7e169e;
+    font-size: xx-large;
+    font-family: 'Playball', cursive;
+}
+
+.cont{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.navbar {
+    background-color: rgb(16, 177, 110);
+}
+
+.nav-link{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #38cfa9;
+}
+
+
+
+button{
+    color: rgb(245, 191, 191);
+    height: 60px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: rgb(43, 114, 136) ;
+}
+
+footer{
+    background-color: rgb(43, 125, 136);
+    text-align: center;
+    height: 90px;
+}
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #05305a;
+}
+
+.linkedin{
+    color: #0039b5;
+}
+
+.google{
+    color: #11f39c;
+}

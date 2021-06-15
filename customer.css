@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: url('image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: rgb(18, 147, 221);
+}
+
+.nav-link{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color:#F1B814;
+}
+
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(38, 202, 23)!important;
+    color: rgb(3, 48, 248)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(171, 178, 179)!important;
+}
